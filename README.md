@@ -12,10 +12,10 @@ Some helpful code to perform the analysis required in this case study can be fou
 # Materials 
 The MATERIALS folder contains some helpful resources to complete this case study. I highly recommend learning more about VADER sentiment analysis as well as different correlational analysis techniques before performing the analysis. 
 
-H. Jacobs, “After a $500 meal at the world’s most luxurious hotel, I stumbled across a $1 fish restaurant on the Moroccan coast — and I’d pick the cheaper one every time,” Business Insider, Jan. 28, 2019. [https://www.businessinsider.com/good-food-not-always-fancy-complicated-expensive-2019-1]
+H. Jacobs, “After a $500 meal at the world’s most luxurious hotel, I stumbled across a $1 fish restaurant on the Moroccan coast — and I’d pick the cheaper one every time,” Business Insider, Jan. 28, 2019. https://www.businessinsider.com/good-food-not-always-fancy-complicated-expensive-2019-1
 
-“Sentiment Analysis using VADER – Using Python,” GeeksforGeeks, Jan. 23, 2019. [https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/]
+“Sentiment Analysis using VADER – Using Python,” GeeksforGeeks, Jan. 23, 2019. https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
 
-M. Stojiljković, “NumPy, SciPy, and Pandas: Correlation With Python,” realpython.com. [https://realpython.com/numpy-scipy-pandas-correlation-python/]
+M. Stojiljković, “NumPy, SciPy, and Pandas: Correlation With Python,” realpython.com. https://realpython.com/numpy-scipy-pandas-correlation-python/
 
 
